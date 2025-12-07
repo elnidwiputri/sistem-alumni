@@ -159,21 +159,18 @@ data_mahasiswa/
 ## Link Penting
 
 - **Link Deployment:** `https://project-name.web.app`
-- **Link Repository:** `https://github.com/username/sistem-data-alumni`
-- **Link Demo Video:** `https://youtu.be/xxx`
+- **Link Repository:** `https://github.com/elnidwiputri/sistem-data-alumni`
+- **Link Demo Video:** `https://drive.google.com/file/d/1jyrMIK1k1FXuajSpcVaMxnJXF49S3r93/view?usp=drive_link`
 
 ---
 
 ## Screenshot Aplikasi
 
-### Halaman Login Admin
-![Login Admin](screenshots/login-admin.png)
-
 ### Dashboard Admin
-![Dashboard Admin](screenshots/dashboard-admin.png)
+![Dashboard Admin](gambar1.png)
 
 ### Dashboard Mahasiswa
-![Dashboard Mahasiswa](screenshots/dashboard-mahasiswa.png)
+![Dashboard Mahasiswa](gambar2.png)
 
 ---
 
@@ -185,7 +182,6 @@ data_mahasiswa/
 - Sistem belum memiliki fitur `notifikasi email`
 
 ### Fitur yang Belum Selesai:
-- Filter alumni berdasarkan `tahun kelulusan`
 - Statistik grafik pada dashboard
 - Backup data otomatis
 
