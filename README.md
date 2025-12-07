@@ -158,7 +158,7 @@ data_mahasiswa/
 
 ## Link Penting
 
-- **Link Deployment:** `https://project-name.web.app`
+- **Link Deployment:** `https://elnidwiputri/sistem-data-alumni.git`
 - **Link Repository:** `https://github.com/elnidwiputri/sistem-data-alumni`
 - **Link Demo Video:** `https://drive.google.com/file/d/1jyrMIK1k1FXuajSpcVaMxnJXF49S3r93/view?usp=drive_link`
 
@@ -167,10 +167,10 @@ data_mahasiswa/
 ## Screenshot Aplikasi
 
 ### Dashboard Admin
-![Dashboard Admin](gambar1.png)
+![Dashboard Admin](assets/gambar1.png)
 
 ### Dashboard Mahasiswa
-![Dashboard Mahasiswa](gambar2.png)
+![Dashboard Mahasiswa](assets/gambar2.png)
 
 ---
 
